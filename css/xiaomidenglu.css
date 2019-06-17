@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.box{
+	width: 600px;
+	height: 500px;
+	border: 1px solid red;
+	margin: 0 auto;
+	margin-top: 50px;
+		
+}
+.img{
+	width:100px;
+	height: 100px;
+	/*border: 1px solid blue;*/
+	margin-left:500px;
+	
+}
+.img1{
+	width: 60px;
+	height: 60px;
+	/*border: 1px solid blue;*/
+	margin:0 auto;
+	
+}
+.box p{
+	font-size: 20px;
+	font-weight: 900px;
+	text-align: center;
+	margin-top: 10px;
+}
+.box input{
+	width: 200px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 200px;
+	
+
+}
+.box #a{
+	width: 200px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 200px;
+	color: white;
+	outline:none;/*点击时去<input>框*/
+	border: 0px;
+	background-color: orangered;
+}
+.box .hr1{
+	width: 120px;
+	position:relative ;
+	top: 30px;
+	left: 135px;
+	background-color: #BC8F8F;
+	border: 1px solid rosybrown;
+}
+.box .hr2{
+	width:120px;
+	position:relative ;
+	top: 5px;
+	left: 360px;
+	background-color: #BC8F8F;
+	border: 1px solid rosybrown;
+}
+.span{
+	position: relative;
+	top: 15px;
+	left: 260px;
+}
+.box ul{
+	list-style: none;
+	margin-left: 230px;
+	margin-top: 25px;
+}
+.box ul li{
+	float:left;
+	/*margin-left: 20px;*/
+}
+.box .c{
+	list-style: none;
+	margin-top: 110px;
+}
+.box .c li{
+	margin: 0 auto;
+	margin: 10px;
+}
+.box .c .xiao{
+	margin-left: -35px;
+}

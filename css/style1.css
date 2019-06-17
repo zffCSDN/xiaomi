@@ -1,0 +1,222 @@
+*{
+	margin: 0;
+	padding: 0;
+	margin: 0 auto;
+}
+.box{
+	width: 1500px;
+	height: 5000px;
+	border: 1px solid red;
+}
+
+
+.a{
+	width: 1500px;
+	height: 50px;
+	margin-top: -5px;
+	background-color: black;
+}
+.a ul{
+	list-style: none;
+	margin-left: 90px;
+}
+.a ul li{
+	float: left;
+	color: white;
+	line-height: 50px;
+	margin-left: 7px;	
+}
+.a ul .b{
+	line-height: 50px;
+	margin-left: 520px;
+	padding-left: 2px;
+}
+.a ul .c{
+	width: 100px;
+	height: 50px;
+	border: 1px s red;
+	line-height: 50px;
+	padding-top: 5px;
+}
+.d ul{
+	list-style: none;
+	background-color: white;
+}
+.d ul .tu{
+	width: 60px;
+	height: 60px;
+	/*border: 1px solid royalblue;*/
+	margin-left: -1360px;
+	margin-top: 20px;
+}
+.d ul li{
+	width:100px;
+	height: 30px;
+	/*border: 1px solid blue;*/	
+	margin-top: 30px;
+	line-height: 30px;
+	float: left;
+	font-size: 16px;
+	font-weight: 500;
+	margin-left: 0px;
+}
+.d ul .tup{
+	width:56px;
+	height: 40px;
+	/*border: 1px solid orangered;*/
+	margin-left: 7px;
+}
+.d ul input{
+	width: 160px;
+	height: 35px;
+	/*border: 1px solid orangered;*/
+}
+.mi{
+	width: 1500px;
+	height: 50px;
+	/*border: 1px solid olive;*/
+    background-color:gray;
+    margin-top:100px;
+    }
+.mi ul{
+	list-style: none;
+	
+}
+.mi ul h1{
+	width:150px;
+	height: 30px;
+	/*border: 1px solid red;*/
+	margin-left: 66px;
+	background-color:gray;
+}
+.mi ul li{
+
+	/*border: 1px solid red;*/
+	float: left;
+	line-height: 50px;
+	font-size: 13px;;
+
+}
+.mi ul  .mi1 h1{
+	float: left;
+	padding-right:1000px;
+	
+}
+.aa{
+	width: 1500px;
+	height: 80px;
+	border: 1px solid white;
+}
+.aa .aaa{
+	list-style: none;
+	margin-top: 25px;
+}
+.aa .aaa li{
+	width: 160px;
+	height: 40px;
+	line-height: 40px;
+	margin-left: 4px;
+	
+	text-align: center;
+	/*border: 1px solid red;*/
+	float: left;
+}
+.aa .aaa li:nth-child(even){
+	color:lightgrey;
+}
+.bb hr{
+	width: 100%;
+	margin-top: 20px;
+	
+}
+.xia{
+	width:1500px;
+	height: 120px;
+	/*border: 1px solid red;*/
+	margin-top: 30px;
+}
+.xia ul{
+	list-style: none;
+	margin-left: 135px;
+	float: left;
+}
+.xia ul .cc{
+	width: 80px;
+	height: 15px;
+/*	border: 1px solid orangered;*/
+	font-size: 12px;
+	margin-top: 3px;
+	margin-left: 0px;
+}
+.dd{
+	width: 600px;
+	height: 120px;
+	margin-top: -3px;
+	margin-left: 1300px;
+/*	border: 1px solid gainsboro;*/
+}
+.dd .shuzi{
+	width: 50px;
+	height: 20px;
+/*	border: 1px solid blue;*/
+	color: red;
+	margin-left: -22px;
+	margin-top: 30px;
+}
+.dd .z{
+	font-size: 11px;
+	margin-left: -20px;
+}
+.dd .im{
+	width: 125px;
+	height: 35px;
+	margin-left: -22px;
+	/*border: 1px solid darkgoldenrod;*/
+}
+.xiamian{
+	width: 1500px;
+	height: 300px;
+	
+	/*border: 1px solid red;*/
+}
+.xiamian ul{
+	width:800px;
+	height: 30px;
+	/*border: 1px solid fuchsia;*/
+	list-style: none;
+	margin-top: -50px;
+	margin-left: 185px;
+}
+.xiamian ul li{
+	font-size: 12px;
+	margin-left: 5px;
+	float: left;
+
+}
+.xiamian .mi11{
+	width: 60px;
+	height: 60px;
+	margin-left: 100px;
+	margin-top: 50px;
+	/*border: 1px solid blueviolet;*/
+}
+.tubiao ul{
+	width: 500px;
+	height: 40px;
+	margin-left: 1000px;
+	/*border: 1px solid orange;*/
+}
+.dianhua{
+	width: 1000px;
+	height: 80px;
+	margin-left: 185px;
+/*	border: 1px solid palevioletred;*/
+	
+}
+.q{
+	width: 500px;
+	height: 50px;
+	/*border: 1px solid sandybrown;*/
+	margin-left: 730px;
+	
+}
